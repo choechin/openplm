@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案是由您 Web 專案的發行/封裝處理程序所使用。您可以編輯此 MSBuild 檔案，
+以自訂此處理程序的行為。若要深入了解，請造訪 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\WebPLM</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Aras.Cryptography.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/Aras.Diagnostics.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/Aras.Net.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/Aras.Server.Agent.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/Aras.Server.ItemAnalysis.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/Aras.Server.ItemAnalysis.Suppressions.Core.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/Aras.Web.Configuration.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/InnovatorCore.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/IOM.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/13/2022 16:01:25</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/NLog.config">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="bin/NLog.dll">
+      <publishTime>04/13/2022 16:01:35</publishTime>
+    </File>
+    <File Include="bin/PLMAPI.dll">
+      <publishTime>05/17/2022 10:27:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/13/2022 16:01:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>04/13/2022 16:01:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>04/13/2022 16:01:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>04/13/2022 16:01:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>04/13/2022 16:01:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>04/13/2022 16:01:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>04/13/2022 16:01:24</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="NLog.config">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/17/2022 10:26:11</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>05/17/2022 10:21:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/17/2022 10:27:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
